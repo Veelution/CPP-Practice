@@ -1,0 +1,2 @@
+Enter the Fibonacci number to calculate.
+The number must be between 2 and 15. Enter 1 to quit: 
